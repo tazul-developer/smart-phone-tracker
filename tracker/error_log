@@ -1,0 +1,251 @@
+[05-May-2019 15:56:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 15:57:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 15:58:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 15:59:23 UTC] PHP Notice:  Undefined index: created_at in /home/rwzfytcm/public_html/tracker/index.php on line 59
+[05-May-2019 15:59:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 15:59:26 UTC] PHP Notice:  Undefined index: created_at in /home/rwzfytcm/public_html/tracker/index.php on line 59
+[05-May-2019 15:59:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 15:59:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:60
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(60): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 60
+[05-May-2019 16:01:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:02:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:03:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:03:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:03:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:03:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:07:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:07:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:11:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now.' in /home/rwzfytcm/public_html/tracker/index.php:50
+Stack trace:
+#0 /home/rwzfytcm/public_html/tracker/index.php(50): DateTime->__construct('2019-04-25 03:4...')
+#1 {main}
+  thrown in /home/rwzfytcm/public_html/tracker/index.php on line 50
+[05-May-2019 16:15:46 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:15:46 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:15:46 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:15:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:16:42 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:16:42 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:16:42 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:16:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:16:50 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:16:50 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:16:50 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:16:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:17:40 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:17:40 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:17:40 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:17:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:19:42 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:19:42 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:19:42 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:19:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:19:48 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:19:48 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:19:48 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:19:48 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:20:47 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:20:47 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:20:47 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:20:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:21:05 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:21:05 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:21:05 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:21:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:21:33 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:21:33 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:21:33 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:21:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:24:18 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:24:18 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:24:18 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:24:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:24:25 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:24:25 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:24:25 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:24:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:30:17 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:30:17 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:30:17 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:30:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:30:25 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:30:25 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:30:25 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:30:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:32:49 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:32:49 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:32:49 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:32:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:32:55 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:32:55 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:32:55 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:32:55 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:28 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:28 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:28 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:36 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:36 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:36 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:43 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:43 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:49:43 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:49:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:50:39 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:50:39 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:50:39 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:50:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:51:37 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:51:37 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:51:37 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:51:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:52:58 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/index.php on line 1
+[05-May-2019 16:52:58 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/index.php on line 1
+[05-May-2019 16:52:58 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/index.php on line 34
+[05-May-2019 16:52:58 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/index.php on line 34
+[05-May-2019 16:53:29 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:53:29 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:53:29 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:53:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:55:43 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:55:43 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:55:43 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:55:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:56:32 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:56:32 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:56:32 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:56:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:58:07 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:58:07 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:58:07 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:58:07 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:58:14 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:58:14 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:58:14 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:58:14 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:30 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:30 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:30 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:30 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:35 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:35 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:35 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:39 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:39 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 16:59:39 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 16:59:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 17:00:14 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 17:00:14 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 17:00:14 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 17:00:14 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 17:00:21 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 17:00:21 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwzfytcm/public_html/tracker/maps.php on line 2
+[05-May-2019 17:00:21 UTC] PHP Notice:  Undefined variable: conn in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 17:00:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwzfytcm/public_html/tracker/maps.php on line 13
+[05-May-2019 17:01:14 UTC] PHP Notice:  Undefined index: login_user in /home/rwzfytcm/public_html/header.php on line 6
+[05-May-2019 17:01:14 UTC] PHP Notice:  Undefined variable: login_user in /home/rwzfytcm/public_html/header.php on line 14
+[05-May-2019 17:01:14 UTC] PHP Notice:  Undefined index: login_user in /home/rwzfytcm/public_html/header.php on line 85
+[05-May-2019 17:01:14 UTC] PHP Notice:  Undefined variable: role in /home/rwzfytcm/public_html/header.php on line 154
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 98
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 100
+[05-May-2019 17:01:14 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:14 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:14 UTC] PHP Notice:  Undefined variable: er in /home/rwzfytcm/public_html/footer.php on line 132
+[05-May-2019 17:01:27 UTC] PHP Notice:  Undefined index: login_user in /home/rwzfytcm/public_html/header.php on line 6
+[05-May-2019 17:01:27 UTC] PHP Notice:  Undefined variable: login_user in /home/rwzfytcm/public_html/header.php on line 14
+[05-May-2019 17:01:27 UTC] PHP Notice:  Undefined index: login_user in /home/rwzfytcm/public_html/header.php on line 85
+[05-May-2019 17:01:27 UTC] PHP Notice:  Undefined variable: role in /home/rwzfytcm/public_html/header.php on line 154
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 98
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 100
+[05-May-2019 17:01:27 UTC] PHP Warning:  strtotime(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 77
+[05-May-2019 17:01:27 UTC] PHP Warning:  date(): Invalid date.timezone value 'UTC ', we selected the timezone 'UTC' for now. in /home/rwzfytcm/public_html/footer.php on line 79
+[05-May-2019 17:01:27 UTC] PHP Notice:  Undefined variable: er in /home/rwzfytcm/public_html/footer.php on line 132
