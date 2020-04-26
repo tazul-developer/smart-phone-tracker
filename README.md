@@ -1,6 +1,6 @@
 # smart-phone-tracker
 
-This simple smartphone tracker, it is my university final year poject.
+This simple smartphone tracker, it is my final year university poject.
 
 How this project work:
 1. Get register phon's latitute & Longitute through API
