@@ -9,7 +9,9 @@
 
     <div class="center" style="padding:20px;">
         <h2>Hi <?= ucfirst($_SESSION['login_user']); ?>!</h2> <spam><?php if($role==2){echo "(Super Admin)";}?></spam>
-        <h4>Welcome to Android Phone Tracker</h4>
+        <hr>
+        <h4>Welcome to Smart Phone Tracking System</h4>
+        <hr>
     </div>
 
         <!-- Icon Cards-->
@@ -27,7 +29,7 @@
                     echo $rowcount=mysqli_num_rows($result);
                 ?> Registered user</div>
               </div>
-              <a class="card-footer text-white clearfix small z-1" href="http://techlore.net/current_list.php">
+              <a class="card-footer text-white clearfix small z-1" href="http://phone_tracker.test/current_list.php">
                 <span class="float-left">View Details</span>
                 <span class="float-right">
                   <i class="fas fa-angle-right"></i>
@@ -51,7 +53,7 @@
                 Custom locations!
                 </div>
               </div>
-              <a class="card-footer text-white clearfix small z-1" href="http://techlore.net/custom_area.php">
+              <a class="card-footer text-white clearfix small z-1" href="http://phone_tracker.test/custom_area.php">
                 <span class="float-left">View Details</span>
                 <span class="float-right">
                   <i class="fas fa-angle-right"></i>

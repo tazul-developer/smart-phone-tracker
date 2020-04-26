@@ -4,7 +4,7 @@
    
    if(isset($_SESSION['login_user'])){ ?>
        
-    <script>window.location = "http://tracker.techlore.net";</script>  
+    <script>window.location = "http://phone_tracker.test";</script>
 
 <?php    }
    
@@ -28,7 +28,7 @@
              $_SESSION['login_user'] = $myusername; 
              $login_user = $_SESSION['login_user'];
              ?>
-        <script>window.location = "http://tracker.techlore.net";</script>
+        <script>window.location = "http://phone_tracker.test";</script>
 <?php   }else{
          $error = "Your Login Name or Password is invalid";
         }
@@ -61,9 +61,9 @@
   <div class="container">
     <div class="card card-login mx-auto mt-5">
       <div ><center><img src="images/location.png" alt="MAP" height="160" width="180" style= "padding:10px;" ></center></div>
-      <div class="card-header"><center><h4><b>Android Phone Tracker</b></h4></center></div>
+      <div class="card-header"><center><h4><b>Smart Phone Tracking System</b></h4></center></div>
       
-      <center><div style = "font-size:16px; color:#cc0000; padding:10px"><?php echo $error; ?></div></center>
+      <center><div style = "font-size:16px; color:#cc0000; padding:10px"><?php if(isset($error)){ echo $error;} ?></div></center>
       <div class="card-body">
           
         <form action = "" method = "post">

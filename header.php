@@ -4,7 +4,7 @@
     session_start();
     //$login_user  = $_SESSION['login_user'];
     if($_SESSION['login_user'] == null){ ?>
-    <script>window.location = "http://tracker.techlore.net/login.php";</script>
+    <script>window.location = "http://phone_tracker.test/login.php";</script>
     
 <?php }else{ $login_user  = $_SESSION['login_user'];}?>
 
@@ -63,18 +63,20 @@
 
     <!-- Navbar -->
     <ul class="navbar-nav ml-auto ml-md-0">
-      <li class="nav-item dropdown no-arrow mx-1">
+      <li class="nav-item dropdown no-arrow mx-1" style=" padding-right: 10px;">
         <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button"  aria-haspopup="true" aria-expanded="false" data-toggle="modal" data-target="#notice">
-          <i class="fas fa-bell fa-fw"></i>
-            <span class="badge badge-danger">
-             
-             <?php
-                $sql        = "SELECT * FROM notifications where status = 1";
-                $result     = $conn->query($sql);
-                echo $rowcount=mysqli_num_rows($result);
-            ?>
+           <span class="badge badge-danger"> <?php
+              $sql        = "SELECT * FROM notifications where status = 1";
+              $result     = $conn->query($sql);
+              echo $rowcount=mysqli_num_rows($result);
+              ?>
+               </span>
+            <i class="fas fa-bell fa-fw"></i>
 
-            </span>
+             
+
+
+
         </a>
     
       </li>

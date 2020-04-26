@@ -10,6 +10,6 @@
     // destroy the session 
     session_destroy(); 
 ?>
-<script>window.location = "http://techlore.net/login.php";</script>
+<script>window.location = "http://phone_tracker.testlogin.php";</script>
 </body>
 </html>

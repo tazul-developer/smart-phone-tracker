@@ -77,7 +77,7 @@ $row = $result->fetch_assoc();
                
           <div class="panel panel-default">
             <div class="panel-heading">Website <i class="fa fa-link fa-1x"></i></div>
-            <div class="panel-body"><a href="www.techlore.net">www.techlore.net</a></div>
+            <div class="panel-body"><a href="www.http://phone_tracker.test">www.http://phone_tracker.test</a></div>
           </div>
           
           <div class="panel panel-default">

@@ -14,14 +14,14 @@ function test_input($data) {
   $data = htmlspecialchars($data);
   return $data;
 }
-if($set_value <=0){
-    $er = "Please enter a valid number";
-}else{
-    $km_sql = "UPDATE set_km SET set_value = '$set_value'";
-    if ($conn->query($km_sql) != TRUE) { 
-        echo "Error updating record: " . $conn->error;
-    }
-}
+//if($set_value <=0){
+//    $er = "Please enter a valid number";
+//}else{
+//    $km_sql = "UPDATE set_km SET set_value = '$set_value'";
+//    if ($conn->query($km_sql) != TRUE) {
+//        echo "Error updating record: " . $conn->error;
+//    }
+//}
  
 
 

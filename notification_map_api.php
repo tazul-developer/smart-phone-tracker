@@ -17,7 +17,7 @@ $u_row     = $u_result->fetch_assoc();
 
 $u_lat = $u_row["current_lat"];
 $u_lon = $u_row["current_lon"];
-$u_name = $u_row["user_name"];
+$u_name = $u_row["username"];
 
 }
 // Get Custom location from custom_area Table
